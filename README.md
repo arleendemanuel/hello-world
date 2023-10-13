@@ -1,10 +1,3 @@
 # hello-world
-hello-to-the-planet!
-
-#Todo: 
-
-#view-from-mars
-
-#view-from-io
-
-#view-from-enceladus
+Sample azure webapp
+Deploy in App Service Plan with Windows OS
